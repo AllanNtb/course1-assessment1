@@ -1,0 +1,28 @@
+Case study
+City Gym has been in business for two years and is seeing a steady increase in the number of
+members. It offers:
+• exercise equipment
+• added services like personalised training, 24/7 gym access, diet advice, and online
+fitness videos.
+The owners of City Gym have asked you to develop some programs that will help improve
+their administration processes.
+Digitising membership plans and costs
+Currently, the administration team uses paper-based documentation, such as forms and
+files. They would like to gradually move to a digital format, starting with automating how
+membership plans and costs are calculated.
+Right now, the staff member must manually calculate the costs for the membership.
+Occasionally, this leads to a mistake, which is difficult to correct once the client is registered.
+The gym owners saw an opportunity to implement a software solution to help staff figure
+out the cost of the membership for potential new clients.
+While the gym has a computer capable of running console applications, no database has
+been set up yet. This programme would allow staff and clients to check the price for the
+various plans and options available for gym membership. However, since there is no
+database available, the program will only be informational and perform a few simple
+functions.
+Gym Challenge
+Finally, the City Gym team would like to host a gym challenge for current members, with
+clients competing to achieve the overall fastest time in four cardio exercises. The members
+will have to enter their times for the four exercises into a computer program. The program
+then ranks them based on their total time.
+The gym owners want this to be a fun and encouraging opportunity for their clients as they
+work on increasing their own fitness levels.
