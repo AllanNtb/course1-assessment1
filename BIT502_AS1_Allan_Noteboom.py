@@ -1,8 +1,3 @@
-#course code: BIT502
-#name: Anne Allard Noteboom
-#student number: 4308756
-#assesment number: 1
-
 #moldule imported to clear console
 import os
 
